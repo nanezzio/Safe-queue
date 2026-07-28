@@ -40,3 +40,4 @@ docs/latex/
 .DS_Store
 Thumbs.db
 .vs/
+CMakePresets.json
