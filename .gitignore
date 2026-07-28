@@ -39,3 +39,4 @@ docs/latex/
 /out/
 .DS_Store
 Thumbs.db
+.vs/
